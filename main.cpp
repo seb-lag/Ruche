@@ -179,7 +179,7 @@ void Threshold_Demo( int, void* )
 
 
 
-   //en cours de developement
+   //en cours de developement à finir
    vector<vector<Point> > temp;
     Exctact_Ellipse(canny_output,temp);
 
