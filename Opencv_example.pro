@@ -15,11 +15,13 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp \
     surf.cpp \
-    ellipse.cpp
+    ellipse.cpp \
+    events.cpp
 
 HEADERS  += mainwindow.h \
     surf.h \
-    ellipse.h
+    ellipse.h \
+    events.h
 
 FORMS    += mainwindow.ui
 
